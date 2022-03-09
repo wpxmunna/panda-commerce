@@ -18,3 +18,27 @@
     cursor: pointer;
     font-weight: bold;
 }
+.catagories{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.catagories h1{
+    color: white;
+    font-weight: bold;
+}
+.catagories img{
+    width: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;    
+}
+.cat1{
+    background-image: linear-gradient(to left, rgb(248, 186, 70) 30%, orange 70%);
+}
+.cat2{
+    background-image: linear-gradient(to left, rgb(247, 151, 243) 30%, orchid 70%);
+}
+.cat3{
+    background-image: linear-gradient(to left, rgb(68, 68, 253) 30%, rgb(32, 32, 240) 70%);
+}
