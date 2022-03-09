@@ -42,3 +42,31 @@
 .cat3{
     background-image: linear-gradient(to left, rgb(68, 68, 253) 30%, rgb(32, 32, 240) 70%);
 }
+.shoes, .bag{
+    margin-bottom: 100px;
+}
+.shoes h2{
+    padding-bottom: 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card h5{
+    font-weight: bold;
+}
+.bag h2{
+    padding-bottom: 50px;
+}
+#subscribe{
+    height: 300px;
+    margin-bottom: 100px;
+    border-radius: 10px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
+
